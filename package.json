@@ -1,0 +1,15 @@
+{
+  "name": "osinfo-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "stat-mode": "^0.2.2"
+  }
+}
